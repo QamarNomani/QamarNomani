@@ -5,27 +5,19 @@ With more than decade of experience under his belt, Qamar has honed his skills i
 
 ### Certifications:
 • CEH - Certified Ethical Hacker v9 
-
 • AZ 500 - Azure Security Engineer
-
 • SC 900 - Microsoft Security, compliance and Identity fundamentals
 
 • SC 200 - Microsoft Certified SOC Anlyst
-
 • SC 300 - Microsoft Identity and Access Administrator
-
 • SC 400 - Microsoft Data Protection 
 
 • MS 500 - Microsoft 365 security Administrator
-
 • AZ 900 - Azure Secuirty Fundamentals
-
 • AZ 104 - Azure Administrator
 
 • AZ 300 - Microsoft Azure Architect Technologies
-
 • AZ 301 - Microsoft Azure Architect Design
-
 • SCS CO1 - AWS Certified Security - Specialty 
 
 
