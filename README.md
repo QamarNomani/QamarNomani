@@ -32,15 +32,13 @@ With more than decade of experience under his belt, Qamar has honed his skills i
 ### Other Details:
 
 
-👨‍💻 All of my projects are here - 
-
-💬 Do you need any help for transform or make a kickass career in cybersecurity 
-
-[Book 1:1 with me](https://topmate.io/qamar_nomani) if you need any help in training, mentoring, career building & career transition into cybersecurity.
+🚀 [Book 1:1 with me](https://topmate.io/qamar_nomani)
 
 📫 [My Bi-weekly LinkedIn Newsletter](https://www.linkedin.com/newsletters/7050538814062108672/)
 
 📝 [My Blog - Infortified](https://infortified.com/)
+
+👨 [My Personal Page](https://qamarnomani.in/)
 
 ### Support my work:
 
