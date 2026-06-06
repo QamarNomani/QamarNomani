@@ -20,16 +20,10 @@ With more than decade of experience under his belt, Qamar has honed his skills i
 • AZ 301 - Microsoft Azure Architect Design
 • SCS CO1 - AWS Certified Security - Specialty 
 
-
 ### Other Details:
 
-
 🚀 [Book 1:1 with me](https://topmate.io/qamar_nomani)
-
 📫 [My Bi-weekly LinkedIn Newsletter](https://www.linkedin.com/newsletters/7050538814062108672/)
-
-📝 [My Blog - Infortified](https://infortified.com/)
-
 👨 [My Personal Page](https://qamarnomani.in/)
 
 ### Support my work:
